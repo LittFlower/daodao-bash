@@ -28,10 +28,11 @@ Tip: **确保物理机已联网。**
 
 ### 支持：
 
-- 查询：query
-- 发布：commit
-- 删除：delete
-- 编辑：edit
+- 帮助：help
+- 查询：query (q)
+- 发布：commit (c)
+- 删除：delete (d)
+- 编辑：edit (e)
 - 清屏：clear
 - 设置自动登录：auto
 
