@@ -1,0 +1,5 @@
+('e:\\python38\\lib\\site-packages\\pyopenssl-22.0.0-py3.8.egg',
+ None,
+ {'*.pyc', '*.cp38-win_amd64.pyd', '*.pyw', '*.pyd', 'EGG-INFO', '*.py'},
+ 'DATA',
+ [])
