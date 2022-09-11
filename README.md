@@ -41,3 +41,6 @@ Tip: **确保物理机已联网。**
 已将项目源代码一并发布，可以自己测试其他环境（例如 linux）下是否可以使用 ~但不保熟因为我没试（~
 
 欢迎二次开发、卡 bug 并提交 issue！
+
+![image](https://user-images.githubusercontent.com/75172736/189523577-51488fea-4cc3-4d39-827c-069e31d8a677.png)
+
